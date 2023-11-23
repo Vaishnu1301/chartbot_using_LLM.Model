@@ -3,9 +3,9 @@
 
 ## Prerequisites:
 
--python 3.7
-A Telegram Account
-An OpenAI Account for API Key
+- python 3.7
+- A Telegram Account
+- An OpenAI Account for API Key
 
 ## How to run code:
 ```bash
